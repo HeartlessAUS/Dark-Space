@@ -1,4 +1,4 @@
-//META{"name":"Dark Space","description":"Dark Space, Something goes here..","author":"Hearty","version":"1.0"}*//
+//META{"name":"Dark Space","description":"Dark Space, Something goes here..","author":"Hearty","version":"1.2"}*//
 
 @import "https://monstrousdev.github.io/themes/addons/user-tags.css";
 @import "https://monstrousdev.github.io/themes/addons/filter.css";
@@ -158,6 +158,11 @@ DDDDDDDDDDDDD          aaaaaaaaaa  aaaa rrrrrrr            kkkkkkkk    kkkkkkk  
 */
 
 /* I. App Window */
+.avatarSmall-2CW6I1{
+	height: 20px;
+	width: 20px;
+	margin-bottom: 2px;
+}
 
 .avatarWrapper-3H_478 *, .avatarWrapper-3H_478{
 	height: 120px !important;
