@@ -17,13 +17,3 @@
   3. Do the same for any of the addons linked above that you would like in addition to the base theme.
   
   
-  
-  
-  ###Gifs and Images:
-  
-  
-  
-  ####Big Avatars
-  ![Big Boys](https://i.gyazo.com/a9239091b08a5ccd6ba5dc4ecdbab94d.png)
-  
-  
