@@ -1,7 +1,7 @@
 # Dark-Space (Version 1.0)
 ##Dark Space, a Discord theme. (for BandagedBD)
 
-  ** Addons currently (Can use a lot of CPU):
+  * Addons currently (Can use a lot of CPU):
     - [Twinkle Twinkle](https://github.com/HeartlessAUS/Dark-Space/blob/master/TwinkleTwinkle.theme.css) (Version 0.1):
         Adds cool twinkles of the stars in the background.
     
