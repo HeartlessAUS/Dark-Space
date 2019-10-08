@@ -1,4 +1,4 @@
-# Dark-Space (Version 1.2)
+# Dark-Space
 ### Dark Space, a Discord theme. (for BandagedBD)
 
   * Addons currently (Potentially CPU intensive):
@@ -17,3 +17,13 @@
   3. Do the same for any of the addons linked above that you would like in addition to the base theme.
   
   
+### Changelog:
+  
+  1.2.1 (hotfix): Hotfix for missing feature .
+  1.2: Minor changes for addons.
+  1.1: Major fixes.
+  1.0: First proper release.
+  0.1: Beta release.
+  
+  
+### Future release wil add auto updater, when I am not lazy.
