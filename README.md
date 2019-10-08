@@ -12,7 +12,7 @@
         Adds Big avatars into the chat, rather then then small ones.
         
     - [Liney Channels](https://github.com/HeartlessAUS/Dark-Space/blob/master/LineyChannels.theme.css) (Version 0.1):
-        Adds little gradients on each side of channels
+        Adds little gradients on each side of channels group
 
 ### To use:
   1. Download and install [BandagedBD](https://github.com/rauenzi/BetterDiscordApp/releases).
