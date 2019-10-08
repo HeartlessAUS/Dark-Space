@@ -1,4 +1,4 @@
-//META{"name":"Dark Space","description":"Dark Space, Something goes here..","author":"Hearty","version":"1.4"}*//
+//META{"name":"Dark Space","description":"Dark Space, Something goes here..","author":"Hearty","version":"1.4.1"}*//
 
 @import "https://monstrousdev.github.io/themes/addons/user-tags.css";
 @import "https://monstrousdev.github.io/themes/addons/filter.css";
@@ -158,6 +158,11 @@ DDDDDDDDDDDDD          aaaaaaaaaa  aaaa rrrrrrr            kkkkkkkk    kkkkkkk  
 */
 
 /* I. App Window */
+
+.wrapper-3V1W3E{
+	position:relative;
+	z-index: 100;
+}
 .theme-dark .searchResult-3pzFAB .searchResultMessage-2VxO12.after-2g0jjc, .theme-dark .searchResult-3pzFAB .searchResultMessage-2VxO12.before-1x1q5S{
 	display:none;
 }
@@ -1195,7 +1200,7 @@ a.selected-aXhQR6 .layout-2DM8Md, a.channel-2QD9_O:hover {
   padding-right: 20px;
   padding-top: 0px;
   border-radius: 5px 5px 0 0;
-  margin-left: 15px;
+  margin-left: 10px;
   box-shadow: 0 -3px 20px rgba(0, 0, 0, .1);
   opacity: 1;
   transition: all 200ms ease;
