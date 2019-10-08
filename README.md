@@ -21,7 +21,8 @@
   
   
 ### Dark Space Changelog:
-
+ 
+  - 1.4.1: Hotfix to correct NSFW check being under twinkle twinkle addon, making the buttons unclickable
   - 1.4: Fixed an issue with hovering on channels, also a hotfix for use of new addon
   - 1.3: Fixed search page, gets rid of messages before/after, prettier with color choice
   - 1.2.1: Hotfix for missing feature in 1.2
