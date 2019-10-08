@@ -19,11 +19,11 @@
   
 ### Dark Space Changelog:
   - 1.3: Fixed search page, gets ride of messages before/after, prettier with color choice
-  - 1.2.1: Hotfix for missing feature in 1.2.
-  - 1.2: Minor changes for addons.
-  - 1.1: Major fixes.
-  - 1.0: First proper release.
-  - 0.1: Beta release.
+  - 1.2.1: Hotfix for missing feature in 1.2
+  - 1.2: Minor changes for addons
+  - 1.1: Major fixes
+  - 1.0: First proper release
+  - 0.1: Beta release
   
   
 ### Future release will include an auto updater.
