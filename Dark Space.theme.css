@@ -1,4 +1,4 @@
-//META{"name":"Dark Space","description":"Dark Space, Something goes here..","author":"Hearty","version":"1.4.1"}*//
+//META{"name":"Dark Space","description":"Dark Space, Something goes here..","author":"Hearty","version":"1.5"}*//
 
 @import "https://monstrousdev.github.io/themes/addons/user-tags.css";
 @import "https://monstrousdev.github.io/themes/addons/filter.css";
@@ -159,6 +159,16 @@ DDDDDDDDDDDDD          aaaaaaaaaa  aaaa rrrrrrr            kkkkkkkk    kkkkkkk  
 
 /* I. App Window */
 
+.listeningAlong-30wH70:before{
+	content: "";
+	height: 24px;
+	width: 24px;
+	margin-right: 12px;
+	background-image: url("https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-logo-transparent-spotify-logo-images-25.png");
+	background-size: 24px;
+	background-repeat: no-repeat;
+	margin-left: 2px;
+}
 .wrapper-3V1W3E{
 	position:relative;
 	z-index: 100;
@@ -302,7 +312,7 @@ DDDDDDDDDDDDD          aaaaaaaaaa  aaaa rrrrrrr            kkkkkkkk    kkkkkkk  
 	right: 13px;
 }
 .chat-3bRxxu .channelTextArea-rNsIhG{
- border-radius: 10px;	
+	border-radius: 10px !important;	
 }
 .unread-3zKkbm{
 	margin-left: 3px;
@@ -757,7 +767,7 @@ a.selected-aXhQR6 .layout-2DM8Md, a.channel-2QD9_O:hover {
   background-color: transparent !important;
   margin-bottom: 10px;
   margin-right: 10px;
-  border-radius: 10px;
+  border-radius: 10px !important;
 }
 .container-1r6BKw.themed-ANHk51{
   border-radius: 10px 10px 0 0;
@@ -1653,7 +1663,7 @@ svg[name="Activity"] {
 #app-mount .menu-Sp6bN1 {
   background: var(--quatro)  var(--stars) top left;
   background-attachment: fixed;
-  border-radius: 0;
+  border-radius: 10px;
   display: flex;
   flex-flow: row wrap;
 }
