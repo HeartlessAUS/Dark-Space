@@ -17,7 +17,7 @@
   3. Do the same for any of the addons linked above that you would like in addition to the base theme.
   
   
-### Changelog:
+### Dark Space Changelog:
   - 1.3: Fixed search page, gets ride of messages before/after, prettier with color choice
   - 1.2.1: Hotfix for missing feature in 1.2.
   - 1.2: Minor changes for addons.
