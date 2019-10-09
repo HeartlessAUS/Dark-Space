@@ -48,7 +48,7 @@
        - 0.1: First Release   
          
          
-  - [Liney Liney (Previously called Liney Channels)](https://github.com/HeartlessAUS/Dark-Space/blob/master/LineyLiney.theme.css) (Version 0.3):
+  - [Liney Liney (Previously called Liney Channels)](https://github.com/HeartlessAUS/Dark-Space/blob/master/LineyLiney.theme.css) (Version 0.4):
        Adds gradient lines on either side of channel groups, member groups. adds a gradient to the bottom controls, and in scrollbars.
        
        - 0.4: Made the gradient a little longer in color on the scrollbar
