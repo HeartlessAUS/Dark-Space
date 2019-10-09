@@ -11,8 +11,8 @@
     - [Big Chat Avatars](https://github.com/HeartlessAUS/Dark-Space/blob/master/BigChatAvatars.theme.css) (Version 0.1):
         Adds Big avatars into the chat, rather then then small ones.
         
-    - [Liney Channels](https://github.com/HeartlessAUS/Dark-Space/blob/master/LineyChannels.theme.css) (Version 0.1):
-        Adds little gradients on each side of channels group
+    - [LineyLiney (Previously called Liney Channels](https://github.com/HeartlessAUS/Dark-Space/blob/master/LineyLiney.theme.css) (Version 0.1):
+        Adds gradients in channel groups, member groups, at the bottom controls, and in scrollbars.
 
 ### To use:
   1. Download and install [BandagedBD](https://github.com/rauenzi/BetterDiscordApp/releases).
