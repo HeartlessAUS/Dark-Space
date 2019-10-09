@@ -26,11 +26,11 @@
 
   - [Twinkle Twinkle](https://github.com/HeartlessAUS/Dark-Space/blob/master/TwinkleTwinkle.theme.css) (Version 0.1):
         - Adds cool twinkles of the stars in the background.
-              ⋅⋅* 0.1: First Release  
+              * 0.1: First Release  
          
   - [Speaky Speaky](https://github.com/HeartlessAUS/Dark-Space/blob/master/SpeakySpeaky.theme.css) (Version 0.1):
         Adds cool speaking animations to users in voice.
-              - 0.1: First Release
+             * 0.1: First Release
          
   - [Big Chat Avatars](https://github.com/HeartlessAUS/Dark-Space/blob/master/BigChatAvatars.theme.css) (Version 0.1):
         Adds Big avatars into the chat, rather then then small ones.
