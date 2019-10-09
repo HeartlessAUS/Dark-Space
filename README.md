@@ -1,5 +1,27 @@
 # Dark-Space
 ### Dark Space, a Discord theme. (for BandagedBD)
+       
+### To use:
+  1. Download and install [BandagedBD](https://github.com/rauenzi/BetterDiscordApp/releases).
+  2. Download [Dark Space theme](https://github.com/HeartlessAUS/Dark-Space/blob/master/Dark%20Space.theme.css) and move to your BetterDiscord's themes folder.
+  3. Do the same for any of the addons linked below that you would like in addition to the base theme.
+  
+  
+### Dark Space Changelog:
+  - 1.6: Removed a gradient, it is are now located in the Liney Liney Addon
+  - 1.5: Added Spotify symbol when listening along, fix small border issue... hopefully
+  - 1.4.1: Hotfix to correct NSFW check being under twinkle twinkle addon, making the buttons unclickable
+  - 1.4: Fixed an issue with hovering on channels, also a hotfix for use of new addon
+  - 1.3: Fixed search page, gets rid of messages before/after, prettier with color choice
+  - 1.2.1: Hotfix for missing feature in 1.2
+  - 1.2: Minor changes for addons
+  - 1.1: Major fixes
+  - 1.0: First proper release
+  - 0.1: Beta release
+  
+  
+### Future release will include an auto updater.
+
 
   * Addons (Potentially CPU intensive):
     - [Twinkle Twinkle](https://github.com/HeartlessAUS/Dark-Space/blob/master/TwinkleTwinkle.theme.css) (Version 0.1):
@@ -19,24 +41,4 @@
          - 0.1: First Release
          - 0.2: Rebranded, new shit everywhere
          - 0.3: Removed the plus symbol in channel groups, because fuck you, find another way to create channels
-         
-### To use:
-  1. Download and install [BandagedBD](https://github.com/rauenzi/BetterDiscordApp/releases).
-  2. Download [Dark Space theme](https://github.com/HeartlessAUS/Dark-Space/blob/master/Dark%20Space.theme.css) and move to your BetterDiscord's themes folder.
-  3. Do the same for any of the addons linked above that you would like in addition to the base theme.
   
-  
-### Dark Space Changelog:
-  - 1.6: Removed a gradient, it is are now located in the Liney Liney Addon
-  - 1.5: Added Spotify symbol when listening along, fix small border issue... hopefully
-  - 1.4.1: Hotfix to correct NSFW check being under twinkle twinkle addon, making the buttons unclickable
-  - 1.4: Fixed an issue with hovering on channels, also a hotfix for use of new addon
-  - 1.3: Fixed search page, gets rid of messages before/after, prettier with color choice
-  - 1.2.1: Hotfix for missing feature in 1.2
-  - 1.2: Minor changes for addons
-  - 1.1: Major fixes
-  - 1.0: First proper release
-  - 0.1: Beta release
-  
-  
-### Future release will include an auto updater.
