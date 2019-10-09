@@ -9,6 +9,7 @@
   
 ### Dark Space Changelog:
 
+  - 1.6.2: Hopefully actually fixed the border issue........ again
   - 1.6.1: Hopefully actually fixed the border issue from 1.5 now...
   - 1.6: Removed a gradient, it is are now located in the Liney Liney Addon
   - 1.5: Added Spotify symbol when listening along, fix small border issue... hopefully
