@@ -1,4 +1,4 @@
-//META{"name":"Dark Space","description":"Dark Space, Something goes here..","author":"Hearty","version":"1.5"}*//
+//META{"name":"Dark Space","description":"Dark Space, Something goes here..","author":"Hearty","version":"1.6"}*//
 
 @import "https://monstrousdev.github.io/themes/addons/user-tags.css";
 @import "https://monstrousdev.github.io/themes/addons/filter.css";
@@ -335,7 +335,7 @@ DDDDDDDDDDDDD          aaaaaaaaaa  aaaa rrrrrrr            kkkkkkkk    kkkkkkk  
 	margin-left: -30%;
 	width:132%;
 	border-top: 2px solid #fff;
-	border-image: linear-gradient(90deg, #000, var(--blurple), #000) 1;
+	border-color: var(--blurple);
 }
 .base-3dtUhz, .platform-win .sidebar-2K8pFh{
 	overflow: visible;
