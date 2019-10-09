@@ -22,7 +22,7 @@
   
 #### Future release will include an auto updater.
 
- * Addons (Potentially CPU intensive):
+ ### Addons (Potentially CPU intensive):
 
   - [Twinkle Twinkle](https://github.com/HeartlessAUS/Dark-Space/blob/master/TwinkleTwinkle.theme.css) (Version 0.1):
        Adds cool twinkles of the stars in the background.
