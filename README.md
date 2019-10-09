@@ -22,21 +22,21 @@
   
 #### Future release will include an auto updater.
 
- Addons (Potentially CPU intensive):
+ ### Addons (Potentially CPU intensive):
 
-    - [Twinkle Twinkle](https://github.com/HeartlessAUS/Dark-Space/blob/master/TwinkleTwinkle.theme.css) (Version 0.1):
+  - [Twinkle Twinkle](https://github.com/HeartlessAUS/Dark-Space/blob/master/TwinkleTwinkle.theme.css) (Version 0.1):
         Adds cool twinkles of the stars in the background.
          - 0.1: First Release  
          
-    - [Speaky Speaky](https://github.com/HeartlessAUS/Dark-Space/blob/master/SpeakySpeaky.theme.css) (Version 0.1):
+  - [Speaky Speaky](https://github.com/HeartlessAUS/Dark-Space/blob/master/SpeakySpeaky.theme.css) (Version 0.1):
         Adds cool speaking animations to users in voice.
          - 0.1: First Release
          
-    - [Big Chat Avatars](https://github.com/HeartlessAUS/Dark-Space/blob/master/BigChatAvatars.theme.css) (Version 0.1):
+  - [Big Chat Avatars](https://github.com/HeartlessAUS/Dark-Space/blob/master/BigChatAvatars.theme.css) (Version 0.1):
         Adds Big avatars into the chat, rather then then small ones.
          - 0.1: First Release   
          
-    - [Liney Liney (Previously called Liney Channels)](https://github.com/HeartlessAUS/Dark-Space/blob/master/LineyLiney.theme.css) (Version 0.3):
+  - [Liney Liney (Previously called Liney Channels)](https://github.com/HeartlessAUS/Dark-Space/blob/master/LineyLiney.theme.css) (Version 0.3):
         Adds gradient lines on either side of channel groups, member groups. adds a gradient to the bottom controls, and in scrollbars.
          - 0.1: First Release
          - 0.2: Rebranded, new shit everywhere
