@@ -26,7 +26,7 @@
 
   - [Twinkle Twinkle](https://github.com/HeartlessAUS/Dark-Space/blob/master/TwinkleTwinkle.theme.css) (Version 0.1):
         - Adds cool twinkles of the stars in the background.
-              - 0.1: First Release  
+              ⋅⋅* 0.1: First Release  
          
   - [Speaky Speaky](https://github.com/HeartlessAUS/Dark-Space/blob/master/SpeakySpeaky.theme.css) (Version 0.1):
         Adds cool speaking animations to users in voice.
