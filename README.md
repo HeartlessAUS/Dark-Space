@@ -20,7 +20,7 @@
   - 0.1: Beta release
   
   
-* Future release will include an auto updater.
+#### Future release will include an auto updater.
 
 
 ### Addons (Potentially CPU intensive):
