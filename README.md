@@ -4,18 +4,22 @@
   * Addons (Potentially CPU intensive):
     - [Twinkle Twinkle](https://github.com/HeartlessAUS/Dark-Space/blob/master/TwinkleTwinkle.theme.css) (Version 0.1):
         Adds cool twinkles of the stars in the background.
-         - 0.1: First Release    
+         - 0.1: First Release  
+         
     - [Speaky Speaky](https://github.com/HeartlessAUS/Dark-Space/blob/master/SpeakySpeaky.theme.css) (Version 0.1):
         Adds cool speaking animations to users in voice.
          - 0.1: First Release
+         
     - [Big Chat Avatars](https://github.com/HeartlessAUS/Dark-Space/blob/master/BigChatAvatars.theme.css) (Version 0.1):
         Adds Big avatars into the chat, rather then then small ones.
-         - 0.1: First Release        
+         - 0.1: First Release   
+         
     - [Liney Liney (Previously called Liney Channels)](https://github.com/HeartlessAUS/Dark-Space/blob/master/LineyLiney.theme.css) (Version 0.3):
         Adds gradient lines on either side of channel groups, member groups. adds a gradient to the bottom controls, and in scrollbars.
          - 0.1: First Release
          - 0.2: Rebranded, new shit everywhere
          - 0.3: Removed the plus symbol in channel groups, because fuck you, find another way to create channels
+         
 ### To use:
   1. Download and install [BandagedBD](https://github.com/rauenzi/BetterDiscordApp/releases).
   2. Download [Dark Space theme](https://github.com/HeartlessAUS/Dark-Space/blob/master/Dark%20Space.theme.css) and move to your BetterDiscord's themes folder.
