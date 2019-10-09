@@ -11,7 +11,7 @@
     - [Big Chat Avatars](https://github.com/HeartlessAUS/Dark-Space/blob/master/BigChatAvatars.theme.css) (Version 0.1):
         Adds Big avatars into the chat, rather then then small ones.
         
-    - [LineyLiney (Previously called Liney Channels](https://github.com/HeartlessAUS/Dark-Space/blob/master/LineyLiney.theme.css) (Version 0.1):
+    - [LineyLiney (Previously called Liney Channels)](https://github.com/HeartlessAUS/Dark-Space/blob/master/LineyLiney.theme.css) (Version 0.2):
         Adds gradients in channel groups, member groups, at the bottom controls, and in scrollbars.
 
 ### To use:
