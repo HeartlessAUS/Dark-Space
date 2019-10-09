@@ -12,7 +12,7 @@
         Adds Big avatars into the chat, rather then then small ones.
         
     - [LineyLiney (Previously called Liney Channels)](https://github.com/HeartlessAUS/Dark-Space/blob/master/LineyLiney.theme.css) (Version 0.2):
-        Adds gradients in channel groups, member groups, at the bottom controls, and in scrollbars.
+        Adds gradient lines on either side of channel groups, member groups. adds a gradient to the bottom controls, and in scrollbars.
 
 ### To use:
   1. Download and install [BandagedBD](https://github.com/rauenzi/BetterDiscordApp/releases).
