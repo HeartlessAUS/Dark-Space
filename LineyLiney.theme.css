@@ -1,5 +1,5 @@
-//META{"name":"LineyLiney","description":"Liney Liney, Something goes here..","author":"Hearty","version":"0.3"}*//
- 
+//META{"name":"LineyLiney","description":"Liney Liney, Something goes here..","author":"Hearty","version":"0.4"}*//
+
 /*
                                                                                                                                                                                                                                                                                                              
                                                                                                                                                                                                                                                                                                              
@@ -36,61 +36,61 @@
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
 */
 .name-IbjUBS {
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	text-align: center;
-	font-weight: 700;
+	display: flex !important;
+	align-items: center !important;
+	justify-content: center !important;
+	text-align: center !important;
+	font-weight: 700 !important;
 }
 .name-IbjUBS:before {
-		content: "";
-		height: 2px;
-		flex-grow: 1;
-		background: linear-gradient(to left, var(--blurple-sheer) 50%, transparent);
-		margin-right: 5px;
+		content: "" !important;
+		height: 2px !important;
+		flex-grow: 1 !important;
+		background: linear-gradient(to left, var(--blurple-sheer) 50%, transparent) !important;
+		margin-right: 5px !important;
 	}
 .name-IbjUBS:after {
-		content: "";
-		height: 2px;
-		flex-grow: 1;
-		background: linear-gradient(to right, var(--blurple-sheer) 50%, transparent);
-		margin-left: 5px;
+		content: "" !important;
+		height: 2px !important;
+		flex-grow: 1 !important;
+		background: linear-gradient(to right, var(--blurple-sheer) 50%, transparent) !important;
+		margin-left: 5px !important;
 }
 .membersGroup-v9BXpm {
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	text-align: center;
-	font-weight: 700;
+	display: flex !important;
+	align-items: center !important;
+	justify-content: center !important;
+	text-align: center !important;
+	font-weight: 700 !important;
 }
 .membersGroup-v9BXpm:before {
-		content: "";
-		height: 2px;
-		flex-grow: 1;
-		background: linear-gradient(to left, var(--greyple-sheer) 50%, transparent);
-		margin-right: 5px;
+		content: "" !important;
+		height: 2px !important;
+		flex-grow: 1 !important;
+		background: linear-gradient(to left, var(--greyple-sheer) 50%, transparent) !important;
+		margin-right: 5px !important;
 	}
 .membersGroup-v9BXpm:after {
-		content: "";
-		height: 2px;
-		flex-grow: 1;
-		background: linear-gradient(to right, var(--greyple-sheer) 50%, transparent);
-		margin-left: 5px;
+		content: "" !important;
+		height: 2px !important;
+		flex-grow: 1 !important;
+		background: linear-gradient(to right, var(--greyple-sheer) 50%, transparent) !important;
+		margin-left: 5px !important;
 }
 .icon-WnO6o2{
-	display:none;
+	display:none !important;
 }
 #app-mount .panels-j1Uci_ {
-    border-image: linear-gradient(90deg, #000, var(--blurple), #000) 1;
+    border-image: linear-gradient(90deg, #000, var(--blurple), #000) 1 !important;
 }
 .scroller-2FKFPG::-webkit-scrollbar-thumb,
 .rolesList-22qj2L::-webkit-scrollbar-thumb,
 #bd-settingspane-container .scroller-wrap .scroller::-webkit-scrollbar-thumb {
-  border: none;
+  border: none !important;
   background-color: transparent !important;
-  background: linear-gradient(to bottom, transparent 0%, var(--blurple) 50%,transparent 100%);
-  border-radius: 10px;
+  background: linear-gradient(to bottom, transparent 0%, var(--blurple) 20%, var(--blurple) 80%,transparent 100%) !important;
+  border-radius: 10px !important;
 }
 .addButton-1BORro.forceVisible-3iHxvH{
-	display: none;
+	display: none !important;
 }
