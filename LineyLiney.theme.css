@@ -1,0 +1,93 @@
+//META{"name":"LineyLiney","description":"Liney Liney, Something goes here..","author":"Hearty","version":"0.2"}*//
+
+/*
+                                                                                                                                                                                                                                                                                                             
+                                                                                                                                                                                                                                                                                                             
+                                                        LLLLLLLLLLL               iiii                                                                   LLLLLLLLLLL               iiii                                                                                                                      
+                                                        L:::::::::L              i::::i                                                                  L:::::::::L              i::::i                                                                                                                     
+                                                        L:::::::::L               iiii                                                                   L:::::::::L               iiii                                                                                                                      
+                                                        LL:::::::LL                                                                                      LL:::::::LL                                                                                                                                         
+                                                          L:::::L               iiiiiiinnnn  nnnnnnnn        eeeeeeeeeeee  yyyyyyy           yyyyyyy       L:::::L               iiiiiiinnnn  nnnnnnnn        eeeeeeeeeeee  yyyyyyy           yyyyyyy                                                        
+                                                          L:::::L               i:::::in:::nn::::::::nn    ee::::::::::::ee y:::::y         y:::::y        L:::::L               i:::::in:::nn::::::::nn    ee::::::::::::ee y:::::y         y:::::y                                                         
+                                                          L:::::L                i::::in::::::::::::::nn  e::::::eeeee:::::eey:::::y       y:::::y         L:::::L                i::::in::::::::::::::nn  e::::::eeeee:::::eey:::::y       y:::::y                                                          
+ ---------------  ---------------  ---------------        L:::::L                i::::inn:::::::::::::::ne::::::e     e:::::e y:::::y     y:::::y          L:::::L                i::::inn:::::::::::::::ne::::::e     e:::::e y:::::y     y:::::y         ---------------  ---------------  --------------- 
+ -:::::::::::::-  -:::::::::::::-  -:::::::::::::-        L:::::L                i::::i  n:::::nnnn:::::ne:::::::eeeee::::::e  y:::::y   y:::::y           L:::::L                i::::i  n:::::nnnn:::::ne:::::::eeeee::::::e  y:::::y   y:::::y          -:::::::::::::-  -:::::::::::::-  -:::::::::::::- 
+ ---------------  ---------------  ---------------        L:::::L                i::::i  n::::n    n::::ne:::::::::::::::::e    y:::::y y:::::y            L:::::L                i::::i  n::::n    n::::ne:::::::::::::::::e    y:::::y y:::::y           ---------------  ---------------  --------------- 
+                                                          L:::::L                i::::i  n::::n    n::::ne::::::eeeeeeeeeee      y:::::y:::::y             L:::::L                i::::i  n::::n    n::::ne::::::eeeeeeeeeee      y:::::y:::::y                                                              
+                                                          L:::::L         LLLLLL i::::i  n::::n    n::::ne:::::::e                y:::::::::y              L:::::L         LLLLLL i::::i  n::::n    n::::ne:::::::e                y:::::::::y                                                               
+                                                        LL:::::::LLLLLLLLL:::::Li::::::i n::::n    n::::ne::::::::e                y:::::::y             LL:::::::LLLLLLLLL:::::Li::::::i n::::n    n::::ne::::::::e                y:::::::y                                                                
+                                                        L::::::::::::::::::::::Li::::::i n::::n    n::::n e::::::::eeeeeeee         y:::::y              L::::::::::::::::::::::Li::::::i n::::n    n::::n e::::::::eeeeeeee         y:::::y                                                                 
+                                                        L::::::::::::::::::::::Li::::::i n::::n    n::::n  ee:::::::::::::e        y:::::y               L::::::::::::::::::::::Li::::::i n::::n    n::::n  ee:::::::::::::e        y:::::y                                                                  
+                                                        LLLLLLLLLLLLLLLLLLLLLLLLiiiiiiii nnnnnn    nnnnnn    eeeeeeeeeeeeee       y:::::y                LLLLLLLLLLLLLLLLLLLLLLLLiiiiiiii nnnnnn    nnnnnn    eeeeeeeeeeeeee       y:::::y                                                                   
+                                                                                                                                 y:::::y                                                                                          y:::::y                                                                    
+                                                                                                                                y:::::y                                                                                          y:::::y                                                                     
+                                                                                                                               y:::::y                                                                                          y:::::y                                                                      
+                                                                                                                              y:::::y                                                                                          y:::::y                                                                       
+                                                                                                                             yyyyyyy                                                                                          yyyyyyy                                                                        
+                                                                                                                                                                                                                                                                                                             
+				 _       _                      __                    _____                   _         _____                               
+     /\         | |     | |                    / _|                  |  __ \                 | |       / ____|                              
+    /  \      __| |   __| |   ___    _ __     | |_    ___    _ __    | |  | |   __ _   _ __  | | __   | (___    _ __     __ _    ___    ___ 
+   / /\ \    / _` |  / _` |  / _ \  | '_ \    |  _|  / _ \  | '__|   | |  | |  / _` | | '__| | |/ /    \___ \  | '_ \   / _` |  / __|  / _ \
+  / ____ \  | (_| | | (_| | | (_) | | | | |   | |   | (_) | | |      | |__| | | (_| | | |    |   <     ____) | | |_) | | (_| | | (__  |  __/
+ /_/    \_\  \__,_|  \__,_|  \___/  |_| |_|   |_|    \___/  |_|      |_____/   \__,_| |_|    |_|\_\   |_____/  | .__/   \__,_|  \___|  \___|
+                                                                                                               | |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+                                                                                                               |_| 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+*/
+.name-IbjUBS {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	font-weight: 700;
+}
+.name-IbjUBS:before {
+		content: "";
+		height: 2px;
+		flex-grow: 1;
+		background: linear-gradient(to left, var(--blurple-sheer) 50%, transparent);
+		margin-right: 5px;
+	}
+.name-IbjUBS:after {
+		content: "";
+		height: 2px;
+		flex-grow: 1;
+		background: linear-gradient(to right, var(--blurple-sheer) 50%, transparent);
+		margin-left: 5px;
+}
+.membersGroup-v9BXpm {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	font-weight: 700;
+}
+.membersGroup-v9BXpm:before {
+		content: "";
+		height: 2px;
+		flex-grow: 1;
+		background: linear-gradient(to left, var(--greyple-sheer) 50%, transparent);
+		margin-right: 5px;
+	}
+.membersGroup-v9BXpm:after {
+		content: "";
+		height: 2px;
+		flex-grow: 1;
+		background: linear-gradient(to right, var(--greyple-sheer) 50%, transparent);
+		margin-left: 5px;
+}
+.icon-WnO6o2{
+	display:none;
+}
+#app-mount .panels-j1Uci_ {
+    border-image: linear-gradient(90deg, #000, var(--blurple), #000) 1;
+}
+.scroller-2FKFPG::-webkit-scrollbar-thumb,
+.rolesList-22qj2L::-webkit-scrollbar-thumb,
+#bd-settingspane-container .scroller-wrap .scroller::-webkit-scrollbar-thumb {
+  border: none;
+  background-color: transparent !important;
+  background: linear-gradient(to bottom, transparent 0%, var(--blurple) 50%,transparent 100%);
+  border-radius: 10px;
+}
