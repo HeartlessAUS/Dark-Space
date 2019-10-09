@@ -1,4 +1,4 @@
-//META{"name":"LineyLiney","description":"Liney Liney, Something goes here..","author":"Hearty","version":"0.2"}*//
+//META{"name":"LineyLiney","description":"Liney Liney, Something goes here..","author":"Hearty","version":"0.3"}*//
 
 /*
                                                                                                                                                                                                                                                                                                              
@@ -90,4 +90,7 @@
   background-color: transparent !important;
   background: linear-gradient(to bottom, transparent 0%, var(--blurple) 50%,transparent 100%);
   border-radius: 10px;
+}
+.addButton-1BORro.forceVisible-3iHxvH{
+	display: none;
 }
