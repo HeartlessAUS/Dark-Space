@@ -21,7 +21,7 @@
   
   
 ### Dark Space Changelog:
-
+  - 1.6: Removed a gradient, it is are now located in the Liney Liney Addon
   - 1.5: Added Spotify symbol when listening along, fix small border issue... hopefully
   - 1.4.1: Hotfix to correct NSFW check being under twinkle twinkle addon, making the buttons unclickable
   - 1.4: Fixed an issue with hovering on channels, also a hotfix for use of new addon
