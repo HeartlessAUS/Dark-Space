@@ -9,6 +9,7 @@
   
 ### Dark Space Changelog:
 
+  - 1.7: Major Update to hover effect in chatbox
   - 1.6.2: Hopefully actually fixed the border issue........ again
   - 1.6.1: Hopefully actually fixed the border issue from 1.5 now...
   - 1.6: Removed a gradient, it is are now located in the Liney Liney Addon
