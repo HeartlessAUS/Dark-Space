@@ -9,6 +9,7 @@
   
 ### Dark Space Changelog:
 
+  - 1.8: Fix for Discord update fucking up everything I worked hard on c,:
   - 1.7: Major Update to hover effect in chatbox
   - 1.6.2: Hopefully actually fixed the border issue........ again
   - 1.6.1: Hopefully actually fixed the border issue from 1.5 now...
