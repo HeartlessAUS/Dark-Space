@@ -1,4 +1,4 @@
-//META{"name":"Dark Space","description":"Dark Space, Something goes here..","author":"Hearty","version":"1.6.2"}*//
+//META{"name":"Dark Space","description":"Dark Space, Something goes here..","author":"Hearty","version":"1.7"}*//
 
 @import "https://monstrousdev.github.io/themes/addons/user-tags.css";
 @import "https://monstrousdev.github.io/themes/addons/filter.css";
@@ -355,22 +355,39 @@ DDDDDDDDDDDDD          aaaaaaaaaa  aaaa rrrrrrr            kkkkkkkk    kkkkkkk  
 }
 #app-mount .containerCozy-jafyvG:hover {
 	background-color: var(--veil);
-	border-radius: 10px;
-}
- #app-mount .containerCozy-jafyvG:hover *{
-	 color: #fff !important;
- }
- #app-mount .containerCozy-jafyvG:hover, #app-mount .containerCozy-jafyvG:hover *, #app-mount .containerCozy-jafyvG, #app-mount .containerCozy-jafyvG *{
+	margin-left: 20px;
+	margin-right: 14px;
+	border-radius: 10px !important;
 	transition: 0.2s;
 	transition-delay: 1s;
-	border-radius: 10px;
+}
+#app-mount .containerCozy-jafyvG{
+	transition: 0.5s;
+}
+ #app-mount .containerCozy-jafyvG:hover *{
+	color: #fff !important;
+	transition: 0.2s;
+	transition-delay: 1s;
  }
+  #app-mount .containerCozy-jafyvG *{
+	transition: 0.5s;
+  }
+ #app-mount .containerCozy-jafyvG, #app-mount .containerCozy-jafyvG *{
+	border-radius: 5px;
+ }
+  #app-mount .contentCozy-3XX413:hover .containerCozy-336-Cz .buttonContainer-KtQ8wc *{
+	opacity: 1; 
+	transition: opacity 1s;
+	transition-delay: 1s; 
+  }
+  #app-mount .contentCozy-3XX413 .containerCozy-336-Cz .buttonContainer-KtQ8wc * {
+	opacity: 0; 
+	transition: opacity 1s;
+	transition-delay: 0s;   
+  }
 .avatar-17mtNa *{
 	border-radius: 50px !important;
 }
- #app-mount .containerCozy-jafyvG, #app-mount .containerCozy-jafyvG * {
-	transition-delay: 0s; 
- }
 /* II. Title Bar */
 .wordmark-2iDDfm svg {
   display: none;
