@@ -54,6 +54,7 @@
   - [Liney Liney (Previously called Liney Channels)](https://github.com/HeartlessAUS/Dark-Space/blob/master/LineyLiney.theme.css) (Version 0.4):
        Adds gradient lines on either side of channel groups, member groups. adds a gradient to the bottom controls, and in scrollbars.
        
+       - 0.5: Member list group gradient is now based on role color (Thanks currentColor!)
        - 0.4: Made the gradient a little longer in color on the scrollbar
        - 0.3: Removed the plus symbol in channel groups, because fuck you, find another way to create channels    
        - 0.2: Rebranded, new shit everywhere
