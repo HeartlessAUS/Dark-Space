@@ -1,4 +1,4 @@
-//META{"name":"LineyLiney","description":"Liney Liney, Something goes here..","author":"Hearty","version":"0.4"}*//
+//META{"name":"LineyLiney","description":"Liney Liney, Something goes here..","author":"Hearty","version":"0.5"}*//
 
 /*
                                                                                                                                                                                                                                                                                                              
@@ -67,14 +67,14 @@
 		content: "" !important;
 		height: 2px !important;
 		flex-grow: 1 !important;
-		background: linear-gradient(to left, var(--greyple-sheer) 50%, transparent) !important;
+		background: linear-gradient(to left, currentColor 50%, transparent) !important;
 		margin-right: 5px !important;
 	}
 .membersGroup-v9BXpm:after {
 		content: "" !important;
 		height: 2px !important;
 		flex-grow: 1 !important;
-		background: linear-gradient(to right, var(--greyple-sheer) 50%, transparent) !important;
+		background: linear-gradient(to right, currentColor 50%, transparent) !important;
 		margin-left: 5px !important;
 }
 .icon-WnO6o2{
