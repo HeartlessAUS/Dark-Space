@@ -1,4 +1,4 @@
-//META{"name":"Dark Space","description":"Dark Space, Something goes here..","author":"Hearty","version":"1.8"}*//
+//META{"name":"Dark Space","description":"Dark Space, Something goes here..","author":"Hearty","version":"1.8.1"}*//
 
 @import "https://monstrousdev.github.io/themes/addons/user-tags.css";
 @import "https://monstrousdev.github.io/themes/addons/filter.css";
@@ -364,19 +364,14 @@ DDDDDDDDDDDDD          aaaaaaaaaa  aaaa rrrrrrr            kkkkkkkk    kkkkkkk  
 	transition: 0.2s;
 	transition-delay: 1s;
 }
-#app-mount .containerCozy-jafyvG{
-	transition: 0.5s;
-}
  #app-mount .containerCozy-jafyvG:hover *{
 	color: #fff !important;
 	transition: 0.2s;
 	transition-delay: 1s;
  }
-  #app-mount .containerCozy-jafyvG *{
-	transition: 0.5s;
-  }
  #app-mount .containerCozy-jafyvG, #app-mount .containerCozy-jafyvG *{
 	border-radius: 5px;
+	transition: 0.5s;
  }
   #app-mount .contentCozy-3XX413:hover .containerCozy-336-Cz .buttonContainer-KtQ8wc *{
 	opacity: 1; 
