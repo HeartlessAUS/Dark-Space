@@ -1,4 +1,4 @@
-//META{"name":"Dark Space","description":"Dark Space, Something goes here..","author":"Hearty","version":"1.8.1"}*//
+//META{"name":"Dark Space","description":"Dark Space, Something goes here..","author":"Hearty","version":"1.9"}*//
 
 @import "https://monstrousdev.github.io/themes/addons/user-tags.css";
 @import "https://monstrousdev.github.io/themes/addons/filter.css";
@@ -158,6 +158,35 @@ DDDDDDDDDDDDD          aaaaaaaaaa  aaaa rrrrrrr            kkkkkkkk    kkkkkkk  
 */
 
 /* I. App Window */
+.foreground-2aE44H{
+	stroke: var(--blurple)
+}
+.flowerStar-1GeTsn * {
+	fill: var(--blurple)
+}
+.selected-mKYnfr.option-n0icdO, .option-n0icdO:hover{
+	background-color: var(--blurple);
+}
+.barFill-23-gu-, #bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch.checked, .bda-slist .bda-footer button, .bd-pfbtn{
+	background: var(--blurple) !important;
+}
+.cardPrimaryEditable-3KtE4g[style*="border-color: rgb(114, 137, 218); background-color: rgb(114, 137, 218); padding: 10px;"], .cardPrimaryEditable-3KtE4g[style*="padding: 10px; border-color: rgb(114, 137, 218); background-color: rgb(114, 137, 218);"]{
+	border-color: var(--blurple) !important;
+	background: var(--blurple) !important;
+}
+ .checked-3_4uQ9[style*="width: 24px; height: 24px; border-color: rgb(114, 137, 218);"],  .checked-3_4uQ9[style*="width: 24px; height: 24px; border-color: rgb(114, 137, 218);"] *{
+	border-color: var(--blurple-sheer) !important;
+	stroke: var(--blurple)
+ }
+.item-1GzJrl{
+	border-radius: 10px;
+	padding-top: 15px !important;
+	padding-bottom: 50px !important;
+	top: 30px !important;
+	width: 100% !important;
+	position:absolute;
+	display: flex !important;
+}
 .content-yTz4x3{
 	border-bottom-right-radius: 10px;
 	border-bottom-left-radius: 10px;
@@ -355,36 +384,6 @@ DDDDDDDDDDDDD          aaaaaaaaaa  aaaa rrrrrrr            kkkkkkkk    kkkkkkk  
 }
 .attachButtonDivider-3Glu60 {
 	background: none;
-}
-#app-mount .containerCozy-jafyvG:hover {
-	background-color: var(--veil);
-	margin-left: 20px;
-	margin-right: 14px;
-	border-radius: 10px !important;
-	transition: 0.2s;
-	transition-delay: 1s;
-}
- #app-mount .containerCozy-jafyvG:hover *{
-	color: #fff !important;
-	transition: 0.2s;
-	transition-delay: 1s;
- }
- #app-mount .containerCozy-jafyvG, #app-mount .containerCozy-jafyvG *{
-	border-radius: 5px;
-	transition: 0.5s;
- }
-  #app-mount .contentCozy-3XX413:hover .containerCozy-336-Cz .buttonContainer-KtQ8wc *{
-	opacity: 1; 
-	transition: opacity 1s;
-	transition-delay: 1s; 
-  }
-  #app-mount .contentCozy-3XX413 .containerCozy-336-Cz .buttonContainer-KtQ8wc * {
-	opacity: 0; 
-	transition: opacity 1s;
-	transition-delay: 0s;   
-  }
-.avatar-17mtNa *{
-	border-radius: 50px !important;
 }
 /* II. Title Bar */
 .wordmark-2iDDfm svg {
