@@ -50,7 +50,13 @@
         
        - 0.1: First Release   
          
+  - [Hover Hover](https://github.com/HeartlessAUS/Dark-Space/blob/master/HoverHover.theme.css) (Version 0.1):
+       Adds a single hover effect in chat messages, very good for dark names.
+        
+       - 0.1: First Release   
          
+
+
   - [Liney Liney (Previously called Liney Channels)](https://github.com/HeartlessAUS/Dark-Space/blob/master/LineyLiney.theme.css) (Version 0.4):
        Adds gradient lines on either side of channel groups, member groups. adds a gradient to the bottom controls, and in scrollbars.
        
