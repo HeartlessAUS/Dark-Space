@@ -31,7 +31,7 @@
   - Make Auto updater....?
   - Addon for bigger guild pictures
   - Fix Discord breaking more... things (Guild options)
-  - Fix the random pinned messages duplicate imageart (old one pops up next to new, when theme is started, until clicked)
+  - Fix the random pinned messages duplicate imageart (Old one pops up next to new, when theme is started, until clicked)
 
 
 
