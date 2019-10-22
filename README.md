@@ -8,6 +8,7 @@
   
   
 ### Dark Space Changelog:
+  - 1.10: Fix for changes in server options
   - 1.9: More blurple, more themed things. Removed hover effect in chat, now in a new addon
   - 1.8.1: Cleaned messy code from 1.7
   - 1.8: Fix for Discord update fucking up everything I worked hard on c,:
