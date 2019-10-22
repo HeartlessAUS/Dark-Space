@@ -1,4 +1,4 @@
-//META{"name":"HoverHover","description":"Hover Hover, Something goes here..","author":"Hearty","version":"0.1"}*//
+//META{"name":"HoverHover","description":"Hover Hover, Something goes here..","author":"Hearty","version":"0.2"}*//
 
 /*
                                                                                                                                                                                                              
@@ -60,3 +60,17 @@ HHHHHHHHH     HHHHHHHHH   ooooooooooo            vvv            eeeeeeeeeeeeee  
 	transition: opacity 1s;
 	transition-delay: 0s;   
   }
+.clickable-1JJAn8:hover .layout-2DM8Md { 
+	background-color: var(--veil);
+	color: var(--veil);
+	transition: 0.2s;
+	transition-delay: 1s;
+}
+.clickable-1JJAn8.container-2Pjhx-:hover .nameAndDecorators-5FJ2dg *{
+	color: #fff !important;
+	transition: 0.2s;
+	transition-delay: 1s;
+}
+.clickable-1JJAn8 .layout-2DM8Md, .clickable-1JJAn8.container-2Pjhx- .nameAndDecorators-5FJ2dg *{
+	transition: 0.5s;
+}
