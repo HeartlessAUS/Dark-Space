@@ -57,7 +57,8 @@
          
   - [Hover Hover](https://github.com/HeartlessAUS/Dark-Space/blob/master/HoverHover.theme.css) (Version 0.1):
        Adds a single hover effect in chat messages, very good for dark names.
-        
+       
+       - 0.2: added similar effect on members in list
        - 0.1: First Release   
          
 
