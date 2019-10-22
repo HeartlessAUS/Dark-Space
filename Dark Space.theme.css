@@ -1,4 +1,4 @@
-//META{"name":"Dark Space","description":"Dark Space, Something goes here..","author":"Hearty","version":"1.9"}*//
+//META{"name":"Dark Space","description":"Dark Space, Something goes here..","author":"Hearty","version":"1.10"}*//
 
 @import "https://monstrousdev.github.io/themes/addons/user-tags.css";
 @import "https://monstrousdev.github.io/themes/addons/filter.css";
@@ -158,6 +158,9 @@ DDDDDDDDDDDDD          aaaaaaaaaa  aaaa rrrrrrr            kkkkkkkk    kkkkkkk  
 */
 
 /* I. App Window */
+.clickable-1JJAn8:hover .layout-2DM8Md { 
+	border-radius: 10px;
+}
 .foreground-2aE44H{
 	stroke: var(--blurple)
 }
@@ -180,11 +183,8 @@ DDDDDDDDDDDDD          aaaaaaaaaa  aaaa rrrrrrr            kkkkkkkk    kkkkkkk  
  }
 .item-1GzJrl{
 	border-radius: 10px;
-	padding-top: 15px !important;
-	padding-bottom: 50px !important;
 	top: 30px !important;
-	width: 100% !important;
-	position:absolute;
+	width: 25% !important;
 	display: flex !important;
 }
 .content-yTz4x3{
@@ -311,7 +311,7 @@ DDDDDDDDDDDDD          aaaaaaaaaa  aaaa rrrrrrr            kkkkkkkk    kkkkkkk  
 	background: rgb(0,0,0)  var(--stars) top left !important;
 }
 .scrollerWrap-1IAIlv .scroller-2TZvBN{
-	padding-bottom: 105px !important;
+	padding-bottom: 180px !important;
 }
 .themeDefault-24hCdX.valueChecked-m-4IJZ{
 	background-color: var(--blurple);
@@ -673,8 +673,8 @@ a.selected-aXhQR6 .layout-2DM8Md, a.channel-2QD9_O:hover {
   transition: background-color .2s ease-in-out;
   -webkit-mask-position: center;
   margin-left: 0px;
-  height: 100% !important;
-  width: 100% !important;
+  height: 100%;
+  width: 100%;
 }
 
 .wrapper-1BJsBx[aria-label="Home"].selected-bZ3Lue .homeIcon-tEMBK1 {
@@ -720,7 +720,7 @@ a.selected-aXhQR6 .layout-2DM8Md, a.channel-2QD9_O:hover {
 }
 
 #app-mount .iconBadge-2wi9r4 {
-  background-color: var(--blurple) !important;
+  background-color: var(--blurple);
   transition: all .2s ease-in-out;
 }
 
