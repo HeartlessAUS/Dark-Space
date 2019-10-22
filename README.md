@@ -54,7 +54,14 @@
        Adds Big avatars into the chat, rather then then small ones.
         
        - 0.1: First Release   
-         
+ 
+ 
+   - [Big Guild Avatars](https://github.com/HeartlessAUS/Dark-Space/blob/master/BigGuildAvatars.theme.css) (Version 0.1):
+       Adds Big avatars into the chat, rather then then small ones.
+        
+       - 0.1: First Release   
+ 
+ 
   - [Hover Hover](https://github.com/HeartlessAUS/Dark-Space/blob/master/HoverHover.theme.css) (Version 0.1):
        Adds a single hover effect in chat messages, very good for dark names.
        
