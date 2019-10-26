@@ -8,6 +8,8 @@
   
   
 ### Dark Space Changelog:
+
+  - 1.11: Fix for my dumb fix in 1.10, added image for custom status', began slow clean up of code
   - 1.10: Fix for changes in server options
   - 1.9: More blurple, more themed things. Removed hover effect in chat, now in a new addon
   - 1.8.1: Cleaned messy code from 1.7
