@@ -1,4 +1,4 @@
-//META{"name":"Dark Space","description":"Dark Space, Something goes here..","author":"Hearty","version":"1.10"}*//
+//META{"name":"Dark Space","description":"Dark Space, Something goes here..","author":"Hearty","version":"1.11"}*//
 
 @import "https://monstrousdev.github.io/themes/addons/user-tags.css";
 @import "https://monstrousdev.github.io/themes/addons/filter.css";
@@ -158,6 +158,9 @@ DDDDDDDDDDDDD          aaaaaaaaaa  aaaa rrrrrrr            kkkkkkkk    kkkkkkk  
 */
 
 /* I. App Window */
+.bf-toolbar, .bf-toolbar::before{
+	background-color: transparent;
+}
 .clickable-1JJAn8:hover .layout-2DM8Md { 
 	border-radius: 10px;
 }
@@ -183,9 +186,9 @@ DDDDDDDDDDDDD          aaaaaaaaaa  aaaa rrrrrrr            kkkkkkkk    kkkkkkk  
  }
 .item-1GzJrl{
 	border-radius: 10px;
-	top: 30px !important;
-	width: 25% !important;
-	display: flex !important;
+	width: auto !important;
+	padding: 10px;
+	margin: 0;
 }
 .content-yTz4x3{
 	border-bottom-right-radius: 10px;
@@ -1680,6 +1683,7 @@ svg[name="Activity"] {
   border-radius: 10px;
   display: flex;
   flex-flow: row wrap;
+  width: fit-content;
 }
 
 #app-mount .item-1GzJrl:hover {
@@ -1688,12 +1692,6 @@ svg[name="Activity"] {
   color: var(--blurple);
 }
 
-.item-1GzJrl {
-  margin: 0;
-  padding: 0px;
-  width: 40px;
-  justify-content: center;
-}
 
 .icon-2doZ3q,
 .iconContainer-2ZxvJk,
@@ -1736,9 +1734,6 @@ svg[name="Activity"] {
   left: 187.5px !important;
 }
 
-.menu-Sp6bN1 {
-  width: fit-content;
-}
 
 .menu-Sp6bN1 .separator-2zcjq8,
 .menu-Sp6bN1 .statusItem-2uzPIV:not(:nth-child(7)) * {
@@ -1773,26 +1768,23 @@ svg[name="Activity"] {
   -webkit-mask: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIi8+PHBhdGggZD0iTTEyIDQuNUM3IDQuNSAyLjczIDcuNjEgMSAxMmMxLjczIDQuMzkgNiA3LjUgMTEgNy41czkuMjctMy4xMSAxMS03LjVjLTEuNzMtNC4zOS02LTcuNS0xMS03LjV6TTEyIDE3Yy0yLjc2IDAtNS0yLjI0LTUtNXMyLjI0LTUgNS01IDUgMi4yNCA1IDUtMi4yNCA1LTUgNXptMC04Yy0xLjY2IDAtMyAxLjM0LTMgM3MxLjM0IDMgMyAzIDMtMS4zNCAzLTMtMS4zNC0zLTMtM3oiLz48L3N2Zz4=) center/90% no-repeat;
 }
 
-.menu-Sp6bN1 .item-1GzJrl:nth-child(7) {
-  display: block;
-  width: 100.5%;
-  top: 0;
-  left: 0;
-  padding: 5px;
-  height: fit-content;
-  position: absolute;
-  transform: translateY(-95%);
-  box-sizing: border-box;
-  margin: 0;
-  background: var(--quatro)  var(--stars) top left;
-  background-attachment: fixed;
-  z-index: -1;
-}
-
 .menu-Sp6bN1 .item-1GzJrl:nth-child(7) .customStatusContentIcon-2sionu {
-  justify-content: center;
+    color: transparent;
+	width: 38px;
+	height: 38px;
+	display: inline-block;
 }
-
+.customStatusEmojiPlaceholder-1NdyxH{
+	height: 38px;
+	width: 38px;
+	position: absolute;
+	background-image: url(https://image.flaticon.com/icons/svg/185/185034.svg);
+	transition: 0.2s ease-in-out
+}
+.customStatusEmojiPlaceholder-1NdyxH:hover{
+	transform: scale(1.2);
+	transition: 0.2s ease-in-out
+}
 #app-mount .item-1GzJrl:last-child:nth-child(7) {
   background: var(--quatro)  var(--stars) top left;
   background-attachment: fixed;
