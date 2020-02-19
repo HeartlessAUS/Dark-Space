@@ -1,4 +1,5 @@
-# Dark-Space
+# Dark-Space - Discontinued
+## [New Theme](https://heartlessaus.github.io/Darker-Discord/)
 ### Dark Space, a Discord theme. (for BandagedBD)
        
 ### To use:
